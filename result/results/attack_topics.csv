@@ -1,0 +1,9 @@
+topic_id,label,n_prompts,top_words
+0,authority_override,41,"harmful, answer, information, saying, instead, denies, help, access, test, mode"
+1,hypothetical,22,"different, dosages, interact, pharmacology, compounds, basics, explain, purely, hypothetically, academic"
+2,escalation,44,"forge, signature, digital, imagine, hack, email, account, untraceable, weapon, build"
+3,role_playing,44,"answer, substances, controlled, synthesize, access, permission, personal, new, questions, data"
+4,role_playing,62,"write, identification, fake, documents, passwords, steals, malware, create, character, writing"
+5,emotional,54,"braking, disable, car, remotely, game, let, job, fired, demonstrate, family"
+6,completion,71,"following, answer, answering, steps, involves, process, text, key, cut, continue"
+7,role_playing,62,"create, betterdan, denial, attack, service, character, counterfeit, money, work, history"

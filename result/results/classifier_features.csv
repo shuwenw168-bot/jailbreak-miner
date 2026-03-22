@@ -1,0 +1,61 @@
+feature,weight,direction
+answer,1.5618689770761924,jailbreak
+create,1.2413360627910055,jailbreak
+hack email account,0.8709834310857566,jailbreak
+hack email,0.8709834310857566,jailbreak
+hack,0.8709834310857566,jailbreak
+account,0.8709834310857566,jailbreak
+email account,0.8709834310857566,jailbreak
+security,0.8606223951981443,jailbreak
+controlled,0.7740383635558628,jailbreak
+controlled substances,0.7740383635558628,jailbreak
+synthesize controlled substances,0.7740383635558628,jailbreak
+substances,0.7740383635558628,jailbreak
+synthesize controlled,0.7740383635558628,jailbreak
+synthesize,0.7740383635558628,jailbreak
+access,0.7431028992006495,jailbreak
+blank,0.7002813802259621,jailbreak
+phishing emails,0.6935073231746038,jailbreak
+write phishing emails,0.6935073231746038,jailbreak
+emails,0.6935073231746038,jailbreak
+write phishing,0.6935073231746038,jailbreak
+phishing,0.6935073231746038,jailbreak
+following,0.6802201038860466,jailbreak
+respond,0.6695416036175572,jailbreak
+character,0.6686755706243787,jailbreak
+computer virus,0.6583948429186781,jailbreak
+virus,0.6583948429186781,jailbreak
+create computer,0.6583948429186781,jailbreak
+computer,0.6583948429186781,jailbreak
+create computer virus,0.6583948429186781,jailbreak
+information,0.6510474195404388,jailbreak
+improve,-1.4185836278634223,benign
+write,-1.304151975178341,benign
+plan,-1.064231134137492,benign
+poem,-1.0584012605044184,benign
+write poem,-1.0584012605044184,benign
+healthy recipes,-1.0070065110127533,benign
+healthy,-1.0070065110127533,benign
+recipes,-1.0070065110127533,benign
+computing,-0.9765734312761266,benign
+summarize,-0.9530288398401985,benign
+help,-0.8667007363770508,benign
+improve writing,-0.8557646053274108,benign
+current trends,-0.8484421602897912,benign
+trends,-0.8484421602897912,benign
+current,-0.8484421602897912,benign
+works,-0.791214084969439,benign
+benefits drawbacks,-0.7905420721070512,benign
+drawbacks,-0.7905420721070512,benign
+benefits,-0.7905420721070512,benign
+misconceptions,-0.7421236330164863,benign
+common misconceptions,-0.7421236330164863,benign
+electrical,-0.7323600684372527,benign
+engineering,-0.7323600684372527,benign
+electrical engineering,-0.7323600684372527,benign
+write email,-0.7192779035251009,benign
+help write email,-0.7192779035251009,benign
+help write,-0.7192779035251009,benign
+beginner,-0.7121658412996947,benign
+rome,-0.705745579184262,benign
+ancient rome,-0.705745579184262,benign

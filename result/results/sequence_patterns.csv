@@ -1,0 +1,2 @@
+pattern,length,support,count,avg_position
+context_building → harmful_request,2,0.08,32,0.140625

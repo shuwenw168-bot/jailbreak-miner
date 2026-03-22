@@ -1,0 +1,7 @@
+cluster_id,size,strategies,avg_word_count
+0,10,{'logic_trap': 10},21.0
+1,16,{'token_smuggling': 16},19.25
+2,335,"{'hypothetical_framing': 50, 'emotional_manipulation': 50, 'role_playing': 50}",20.301492537313433
+3,13,{'gradual_escalation': 13},19.692307692307693
+4,11,{'gradual_escalation': 11},16.454545454545453
+5,15,{'gradual_escalation': 15},23.133333333333333
