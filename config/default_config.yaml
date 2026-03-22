@@ -1,0 +1,43 @@
+# Jailbreak-Miner Configuration
+
+# Feature Extraction
+features:
+  ngram_range: [1, 4]
+  max_features: 5000
+  min_df: 2
+  max_df: 0.95
+
+# N-gram Mining
+ngram_mining:
+  top_k: 50
+  min_ratio: 2.0
+
+# Topic Modeling (LDA)
+topic_modeling:
+  n_topics: 8
+  max_iter: 30
+  random_state: 42
+
+# Clustering
+clustering:
+  n_clusters: 6
+  method: "kmeans"
+
+# Sequential Pattern Mining
+sequence_mining:
+  min_support: 0.08
+  min_pattern_length: 2
+  max_pattern_length: 5
+
+# Detection Classifier
+detection:
+  test_size: 0.2
+  classifier: "logistic_regression"
+  cv_folds: 5
+  random_state: 42
+
+# Output
+output:
+  results_dir: "results"
+  figures_dir: "results/figures"
+  figure_dpi: 300

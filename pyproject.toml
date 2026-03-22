@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "jailbreak-miner"
+version = "1.0.0"
+description = "Mining Attack Patterns in LLM Jailbreaks Using Text Mining Methods"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+keywords = ["jailbreak", "LLM", "safety", "text-mining", "red-teaming"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
